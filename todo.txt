@@ -1,0 +1,12 @@
+Table Name     | Purpose
+---------------|------------------------------------------------
+users          | Stores customer and admin info
+addresses      | Shipping/billing addresses
+categories     | Organizes products
+products       | Product catalog
+carts          | User shopping cart
+cart_items     | Items in the cart
+orders         | Each customer's order
+order_items    | Items in each order
+payments       | Payment tracking
+reviews        | User reviews for products
